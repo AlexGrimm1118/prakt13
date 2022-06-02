@@ -75,6 +75,15 @@ namespace Consoleprakt13
 
 
 
+                if(ch == 5)
+                {
+                    Console.WriteLine(a * b);
+                }
+
+
+
+
+
 
                 if(ch == 6)
                 {
