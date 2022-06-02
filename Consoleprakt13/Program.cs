@@ -23,7 +23,10 @@ namespace Consoleprakt13
 
 
 
-
+                if(ch ==2)
+                {
+                    b = int.Parse(Console.ReadLine());
+                }
 
 
 
