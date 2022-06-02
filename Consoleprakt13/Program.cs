@@ -65,7 +65,10 @@ namespace Consoleprakt13
 
 
 
-
+                if(ch == 6)
+                {
+                    Console.WriteLine(a / b);
+                }
 
 
 
