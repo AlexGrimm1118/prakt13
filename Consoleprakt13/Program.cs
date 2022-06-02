@@ -16,7 +16,10 @@ namespace Consoleprakt13
                 Console.WriteLine("\n1-Ввести А\n2-Ввести В\n3-Вычесть\n4-Сложить\n5-Умножить\n6-Делить");
                 int ch = int.Parse(Console.ReadLine());
 
-
+                if(ch == 1)
+                {
+                    a = int.Parse(Console.ReadLine());
+                }
 
 
 
