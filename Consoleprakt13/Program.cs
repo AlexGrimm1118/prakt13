@@ -46,7 +46,10 @@ namespace Consoleprakt13
 
 
 
-
+                if(ch == 3)
+                {
+                    Console.WriteLine(a-b);
+                }
 
 
 
